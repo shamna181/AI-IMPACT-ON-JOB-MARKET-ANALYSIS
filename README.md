@@ -52,4 +52,4 @@ Using a Kaggle dataset of **30,000 job records**, the study identifies:
 
 
 ## Dashboard Preview
-
+<img width="1700" height="1000" alt="Image" src="https://github.com/user-attachments/assets/a0e3b23b-c186-421b-8b2f-5da0142ba4f5" />
