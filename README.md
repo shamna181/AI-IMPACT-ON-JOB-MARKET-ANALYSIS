@@ -1,4 +1,6 @@
 # AI-IMPACT-ON-JOB-MARKET-ANALYSIS
+![Image](https://github.com/user-attachments/assets/d8657863-a56d-4fa2-8ed9-29298343797d)
+
 A multi-tool analysis of AI’s impact on the job market across industries, education levels, and experience categories using Python, R, and Tableau.
 
 ##  Overview
