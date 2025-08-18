@@ -48,4 +48,8 @@ Using a Kaggle dataset of **30,000 job records**, the study identifies:
 
 - **Source:** Kaggle – AI Job Trends Dataset  
 - **Rows:** 30,000 job records  
-- **Columns:** Job Title,Industry,Automation Risk,Median Salary,Job Openings (2024),Projected Openings (2030) 
+- **Columns:** Job Title,Industry,Automation Risk,Median Salary,Job Openings (2024),Projected Openings (2030)
+
+
+## Dashboard Preview
+
